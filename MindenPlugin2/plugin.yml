@@ -1,0 +1,13 @@
+name: MindenPlugin
+version: 1.0
+author: bigo
+main: hu.thebigo.main
+commands:
+  troll:
+    description: toll parancs
+  mobbot:
+    description: mobbot
+  szuperkaja:
+    description: szuperkaja
+  mentorud:
+    description: mentroud
